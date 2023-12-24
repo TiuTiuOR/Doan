@@ -40,7 +40,10 @@ Trang Admin ( http://localhost/DoAnChuyenNganh/admin ) -> tài khoản admin , m
 
 Cảm ơn thầy đã đọc hướng dẫn của em ạ <3
 
-----Hosting tiutiu.online 
+----Hosting 
+
+tiutiu.online 
+
 https://nuremberg.maychu.cloud:2222/CMD_FILE_MANAGER?path=/  ( vào trang này để đăng nhập tài khoản trên hosting )
 
 Tài khoản : tiutiuon
