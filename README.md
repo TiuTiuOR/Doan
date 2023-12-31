@@ -1,5 +1,7 @@
 ----Hướng dẫn cài đặt và sử dụng 
 
+Trước tiên phải có Xampp , cài thêm version cho PHP 7.3 để chạy được chương trình 
+
 Vì dùng xampp nên phải có xampp để chạy được web vì em đã sửa phiên bản trong xampp nên nhiều cái đã thay đổi và em không thể up xampp lên github và quá dung lượng 
 
 Nên đây là link liên kết để tải xampp em đã up lên drive (https://drive.google.com/file/d/1pm6JHwfPe8jQotogOGz4h3I0qlJcjv4n/view?usp=sharing) mong thầy thông cảm ạ
